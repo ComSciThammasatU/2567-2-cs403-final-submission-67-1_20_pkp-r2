@@ -1,0 +1,7 @@
+แพลตฟอร์มการจัดการงานและการทำงานร่วมกันแบบครบวงจร
+Web Tool for Task and Collaboration Management
+
+   Nowadays, Project Management and Collaboration have become increasingly complex. Many teams struggle with disorganized Workflows, leading to confusion and difficulties in tracking progress. Moreover, the lack of flexibility in adapting work processes to different tasks poses a significant challenge. In addition, ineffective communication within teams often results in delays and errors. To address these issues, we have developed a platform that empowers teams to streamline their Workflows and improve Collaboration.
+   Recognizing these pain points, our team has developed a platform designed to streamline Project Management and Collaboration. Our platform allows users to customize Workflows to meet their specific needs. It features a Drag-and-drop interface for easy task management and Progress Tracking, supports Task Dependencies for more organized processes, and offers a Customizable UI for enhanced user experience. This platform is designed to address the shortcomings of existing Project Management tools.
+
+Keywords: Project Management, Collaboration, Workflows, Task Dependencies, User Interface, Task Tracking, Customizable Platform, Team Communication
