@@ -15,5 +15,9 @@
    
 Manual / Instructions for your projects starts here !
 # Topic 1
-# Topic 2 
+# Topic 2
+final_reports/
+├── 67-2_CS403_67-1_20_pkp-r2.pdf
+├── 67-2_CS403_67-1_20_pkp-r2_abstract_en.txt
+└── 67-2_CS403_67-1_20_pkp-r2_abstract_th.txt
 # Topic 3
