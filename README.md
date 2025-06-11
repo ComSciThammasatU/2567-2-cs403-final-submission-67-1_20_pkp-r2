@@ -35,12 +35,14 @@
 
 - **Focus Page**
 ![image](https://github.com/user-attachments/assets/02e2554a-1eb2-41ea-9f57-254a54dc0394)
-
 - **Dashboard**
-- **Task Organization**
+![image](https://github.com/user-attachments/assets/da19c382-48f3-4770-b1f8-d61a3631a6a5)
+-  **Task Organization**
+![image](https://github.com/user-attachments/assets/b2ad6d88-2385-4c32-aa95-5234c5002959)
 - **My Calendar**
+  <img width="1440" alt="image" src="https://github.com/user-attachments/assets/ce476470-74be-4808-90ab-1b0921809ac3" />
 - **Note**
-
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/7b68f85a-fa2f-4f59-985f-6ac5d672454f" />
 </details>
 
 ## 🛠 Installation & Setup
@@ -60,6 +62,9 @@ npm run dev
 # 5. Open in browser
 http://localhost:3000
 ```
+
+## 🎞️ Demo
+🔗
 
 ## 🚀 Built With
 - Next.js – The React framework for production.
