@@ -64,7 +64,7 @@ http://localhost:3000
 ```
 
 ## 🎞️ Demo
-🔗
+🔗 https://github.com/ComSciThammasatU/2567-2-cs403-final-submission-67-1_20_pkp-r2/tree/main/demo
 
 ## 🚀 Built With
 - Next.js – The React framework for production.
